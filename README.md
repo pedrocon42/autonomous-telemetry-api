@@ -8,9 +8,9 @@ This project connects to my research in resilient autonomous navigation and cybe
 
 ## Features
 - Receive telemetry data via POST requests
-- Detect anomalies in IMU readings
+- Detect anomalies across multiple sensors (IMU, speed, signal strength, packet loss)
 - Store and retrieve telemetry logs
-- Simulate sensor input with a Python script
+- Simulate realistic sensor input (GPS, IMU, altitude, heading, etc.)
 
 ## Endpoints
 
