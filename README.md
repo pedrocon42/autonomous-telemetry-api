@@ -36,15 +36,15 @@ View stored telemetry
 
 ## How to Run
 
-## Setup
+### 1. Setup
 pip install -r requirements.txt
 
-### 1. Run the API
+### 2. Run the API
 ```bash
 python app.py
 ```
 
-### 2. Run the simulator (in a second terminal)
+### 3. Run the simulator (in a second terminal)
 ```bash
 python sensor_sim.py
 ```
