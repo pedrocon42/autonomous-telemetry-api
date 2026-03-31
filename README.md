@@ -36,6 +36,9 @@ View stored telemetry
 
 ## How to Run
 
+## Setup
+pip install -r requirements.txt
+
 ### 1. Run the API
 ```bash
 python app.py
